@@ -1,0 +1,5 @@
+CONTROLLO CONDIZIONI:
+	tutte e 3 le città devono essere presenti nella sequenza
+	ogni città non deve essere presente nella sequenza per più di 6 volte
+	il tecnico non si può spostare da una città all'altra prima di avervi trascorso 3 giorni di fila
+	possibilità di start con lvl4, pre-assegnando i primi 3 livelli
